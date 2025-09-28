@@ -1,4 +1,4 @@
-# 👋 Hi, I'm A.J.S.Phaneendra  
+👋 Hi, I'm A.J.S.Phaneendra  
 
 🌟 A passionate **Frontend** and **Cloud Developer** from India  
 
