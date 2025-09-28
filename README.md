@@ -15,12 +15,12 @@
 ---
 
 ## 🌐 Connect with Me  
-[LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saiphaneendra0406)  
-[CodeChef](https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef)](https://www.codechef.com/users/phanisai60)  
-[HackerRank](https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/saiphaneendra477)  
-[LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/saiphani6052/haker)  
-[HackerEarth](https://img.shields.io/badge/HackerEarth-darkblue?style=flat&logo=hackerearth)](https://www.hackerearth.com/@saiphaneendra477/)  
-[GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/saiphaneedra/)  
+(https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/saiphaneendra0406)  
+(https://img.shields.io/badge/CodeChef-brown?style=flat&logo=codechef)](https://www.codechef.com/users/phanisai60)  
+(https://img.shields.io/badge/HackerRank-green?style=flat&logo=hackerrank)](https://www.hackerrank.com/profile/saiphaneendra477)  
+(https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode)](https://leetcode.com/u/saiphani6052/haker)  
+(https://img.shields.io/badge/HackerEarth-darkblue?style=flat&logo=hackerearth)](https://www.hackerearth.com/@saiphaneendra477/)  
+(https://img.shields.io/badge/GeeksforGeeks-brightgreen?style=flat&logo=geeksforgeeks)](https://www.geeksforgeeks.org/user/saiphaneedra/)  
 
 ---
 
